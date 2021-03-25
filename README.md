@@ -10,6 +10,7 @@ picbed
 ![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/SR.png)
 
 3、base64转换图片二进制文件。  
+
 ![avatar][base64str]
 隔段引用末尾图片的base64转换二进制编码  
   
