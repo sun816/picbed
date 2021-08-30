@@ -22,4 +22,4 @@ picbed
 #montas monitor 2
 [![Services Health](https://fixh676zdhx.montastic.io/badge)](https://fixh676zdhx.montastic.io)
 
-![](https://g2x7s7w9.hostrycdn.com/themes/custom/numiko/dist/img/british-museum-logo.svg)
+
