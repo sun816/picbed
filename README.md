@@ -22,17 +22,17 @@ picbed
 4、引用视频文件。 
 
 #引用视频1   
-[![Watch the FF13@GH]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://www.youtube.com/watch?v=I1stLzIGiws)
+[![Watch the FF13@Y2B]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://www.youtube.com/watch?v=I1stLzIGiws)
 
 #引用视频2   
-[![Watch the FF13@local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://git.bajinxianshen.cf/picbed/demo/FF13-1.mp4)
+[![Watch the FF13@GH local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://git.bajinxianshen.cf/picbed/demo/FF13-1.mp4)
 
 #引用视频3 cdn.jsdelivr.net加速的git local demo  
 
 #加速视频 https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4   
 
 
-[![Watch the FF13@jsdelivr加速的git local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4)  
+[![Watch the FF13@jsdelivr加速的GH local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4)  
 
 
 
