@@ -28,7 +28,7 @@ picbed
 [![Watch the FF13@local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://git.bajinxianshen.cf/picbed/demo/FF13-1.mp4)
 
 #引用视频3 cdn.jsdelivr.net加速的git local demo  
-#加速视频 https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4
+#加速视频 https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4  
 
 [![Watch the FF13@jsdelivr加速的git local demo]![](https://cdn.jsdelivr.net/gh/sun816/picbed/pic/FF13.jpg)](https://cdn.jsdelivr.net/gh/sun816/picbed/demo/FF13-1.mp4)
 #montas monitor 1
