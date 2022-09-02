@@ -37,17 +37,18 @@ picbed
 
 5、CF cache 加速 B2文件。 
 
-#原始视频1   
+#原始视频1       
 [![Watch the mjj@B2]![](https://f000.backblazeb2.com/file/movbed/sunchip.jpg)](https://f000.backblazeb2.com/file/movbed/mjj1984.mp4)
 
 #原始图片2   
 [![Watch the mjj@CF cache DNS b2.bajinx pagerule cache everything from B2 movbed buckets *]![](https://b2.bajinxianshen.cf/file/movbed/sunchip.jpg)](https://b2.bajinxianshen.cf/file/movbed/mjj1984.mp4)
 
 
-#check cf cache
-https://yomotherboard.com/cloudflare-cache-detector/?url=https%3A%2F%2Fb2.bajinxianshen.cf%2Ffile%2Fmovbed%2Fmjj1984.mp4  
+#check cf cache    
 
-https://yomotherboard.com/cloudflare-cache-detector/?url=https%3A%2F%2Fb2.bajinxianshen.cf%2Ffile%2Fmovbed%2Fsunchip.jpg
+<https://yomotherboard.com/cloudflare-cache-detector/?url=https%3A%2F%2Fb2.bajinxianshen.cf%2Ffile%2Fmovbed%2Fmjj1984.mp4>
+
+<https://yomotherboard.com/cloudflare-cache-detector/?url=https%3A%2F%2Fb2.bajinxianshen.cf%2Ffile%2Fmovbed%2Fsunchip.jpg>
 
 
 #montas monitor 1
