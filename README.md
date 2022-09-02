@@ -37,10 +37,10 @@ picbed
 
 5、CF cache 加速 B2文件。 
 
-#原始视频(图标)1        
+#原始视频图标1        
 [![Watch the mjj@B2]![](https://f000.backblazeb2.com/file/movbed/sunchip.jpg)](https://f000.backblazeb2.com/file/movbed/mjj1984.mp4)
 
-#Cache视频(图片)2   
+#Cache视频图片2   
 [![Watch the mjj@CF cache DNS b2.bajinx pagerule cache everything from B2 movbed buckets *]![](https://b2.bajinxianshen.cf/file/movbed/sunchip.jpg)](https://b2.bajinxianshen.cf/file/movbed/mjj1984.mp4)
 
 
