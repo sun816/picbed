@@ -50,6 +50,9 @@ picbed
 
 <https://yomotherboard.com/cloudflare-cache-detector/?url=https%3A%2F%2Fb2.bajinxianshen.cf%2Ffile%2Fmovbed%2Fsunchip.jpg>
 
+#cloudinary accelerate:
+<
+https://res.cloudinary.com/taiyangchen/image/upload/v1686021338/pic/f6dh8ndp87tuz0koe7rj.jpg>
 
 #montas monitor 1
 [![Services Health](https://tpeg217qxua.montastic.io/badge)](https://tpeg217qxua.montastic.io)
