@@ -55,8 +55,11 @@ picbed
 ![](https://res.cloudinary.com/taiyangchen/image/upload/v1686021338/pic/f6dh8ndp87tuz0koe7rj.jpg)
 
 
+#cloudinary mv accelerate:
 
-[![Watch the mv1 from cloudinary *]![](https://res.cloudinary.com/taiyangchen/video/upload/v1686020674/mv/uieykeuhekkw637pfd6z.mp4)
+<https://res.cloudinary.com/taiyangchen/video/upload/v1686020674/mv/uieykeuhekkw637pfd6z.mp4>
+
+
 
 #montas monitor 1
 [![Services Health](https://tpeg217qxua.montastic.io/badge)](https://tpeg217qxua.montastic.io)
