@@ -59,6 +59,14 @@ picbed
 
 <https://res.cloudinary.com/taiyangchen/video/upload/v1686020674/mv/uieykeuhekkw637pfd6z.mp4>
 
+#cloudinary mv  sp_auto (Adaptive bitrate streaming) accelerate:
+
+<https://res.cloudinary.com/taiyangchen/video/upload/sp_auto/v1686020674/mv/uieykeuhekkw637pfd6z.mp4>
+
+#cloudinary mv  sp_auto:maxres_360p (Adaptive bitrate streaming) accelerate:
+
+<https://res.cloudinary.com/taiyangchen/video/upload/sp_auto:maxres_360p/v1686020674/mv/uieykeuhekkw637pfd6z.mp4>
+
 
 
 #montas monitor 1
