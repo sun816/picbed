@@ -65,7 +65,7 @@ picbed
 <https://res.cloudinary.com/taiyangchen/video/upload/sp_auto/v1686020674/mv/uieykeuhekkw637pfd6z.m3u8>
 
 
-#cloudinary mv  sp_auto:maxres_360p (Adaptive bitrate streaming) accelerate:
+#cloudinary mv  sp_auto:maxres_720p (Adaptive bitrate streaming) accelerate:
 
 <https://res.cloudinary.com/taiyangchen/video/upload/sp_auto:maxres_720p/v1686020674/mv/uieykeuhekkw637pfd6z.m3u8>
 
