@@ -4,6 +4,7 @@ picbed
 
 ![](https://picbed.weweb.win/pic/sea20210226.JPG)
 
+![](https://picbed.weweb.win/client_linux_mipsle)
 
 2、cdn.jsdelivr.net加速图片
 
